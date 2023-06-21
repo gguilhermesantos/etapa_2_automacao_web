@@ -1,0 +1,27 @@
+{
+  "name": "testes_automatizados_cypress",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a> # Testes Automatizados de frontend em Cypress com Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gguilhermesantos/"
+  },
+  "homepage": "https://github.com/gguilhermesantos/",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.14.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "typescript": "^5.1.3"
+  }
+}
